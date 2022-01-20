@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Open Weather App</string>
+    <string name="_8am">8am</string>
+    <string name="_11pm">11pm</string>
+    <string name="_5pm">5pm</string>
+    <string name="_1pm">1pm</string>
+</resources>
